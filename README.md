@@ -48,6 +48,14 @@ Me chamo Gabrielle de Freitas Cruz, tenho 18 anos. Concluí o ensino médio na E
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img
+    align="left"
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
 
 <br/>
 <br/>
